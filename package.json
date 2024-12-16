@@ -1,0 +1,12 @@
+
+{
+  "name": "mathema_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot integrated with Mistral AI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "python telegram_mistral_bot.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
